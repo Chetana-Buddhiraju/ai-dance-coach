@@ -1,0 +1,8 @@
+opencv-python-headless
+matplotlib
+Pillow
+numpy
+tqdm
+mediapipe       # for pose estimation later
+# torch, torchvision 
+​
