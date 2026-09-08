@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Downloaded MediaPipe model (auto-downloaded on first run, see src/pose_estimation.py)
+models/
+
+# Per-run generated output (the committed showcase demo lives in assets/ instead)
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,33 @@
+{
+  "reference": "C:/Users/User/Desktop/Extra Curriculars/Dance/InShot_20210830_235024325.mp4",
+  "candidate": "C:/Users/User/Desktop/Extra Curriculars/Dance/InShot_20210830_235530845.mp4",
+  "mean_distance": 0.14061395026078655,
+  "match_score_0_100": 90.6257366492809,
+  "worst_frame_pairs": [
+    {
+      "ref_timestamp_s": 1.4,
+      "candidate_timestamp_s": 5.6,
+      "distance": 0.4208153289619687
+    },
+    {
+      "ref_timestamp_s": 28.0,
+      "candidate_timestamp_s": 28.2,
+      "distance": 0.3492282976147449
+    },
+    {
+      "ref_timestamp_s": 1.8,
+      "candidate_timestamp_s": 5.6,
+      "distance": 0.3470806772152757
+    },
+    {
+      "ref_timestamp_s": 3.4,
+      "candidate_timestamp_s": 6.0,
+      "distance": 0.3346691435554222
+    },
+    {
+      "ref_timestamp_s": 2.0,
+      "candidate_timestamp_s": 5.8,
+      "distance": 0.32809105373523245
+    }
+  ]
+}

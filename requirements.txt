@@ -3,6 +3,4 @@ matplotlib
 Pillow
 numpy
 tqdm
-mediapipe       # for pose estimation later
-# torch, torchvision 
-​
+mediapipe
