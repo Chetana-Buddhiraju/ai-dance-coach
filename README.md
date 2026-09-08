@@ -1,16 +1,18 @@
 # AI Dance Coach
 
-A computer-vision "dance coach" that compares two takes of the same routine — pose by pose,
-frame by aligned frame — and shows exactly where they diverge. Still a work in progress, but the
+A computer-vision "dance coach" that compares two takes of the same routine, pose by pose,
+frame by aligned frame, and shows exactly where they diverge. Still a work in progress, but the
 core pipeline (pose extraction → alignment → scoring → visualization) actually runs end to end
 on real footage now, not just a plan.
 
 ## About / Motivation
 
 I started this passion project while practicing alone in Singapore while my troupe was
-rehearsing in India. I wanted a way to self-correct without a partner — so I combined two things
-I love: dance and AI. The idea: use pose estimation to track a dancer's movement, compare it to
-reference choreography, and give feedback on posture, timing and alignment — like a coach by
+rehearsing in India. I wanted a way to self-correct without a partner, so I combined two things
+I love: dance and AI. 
+
+The idea: use pose estimation to track a dancer's movement, compare it to
+reference choreography, and give feedback on posture, timing and alignment, like a coach by
 your side.
 
 I paused development while juggling my NUS AI coursework, performances and an internship at
