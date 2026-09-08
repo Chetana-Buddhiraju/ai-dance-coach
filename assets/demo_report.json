@@ -1,6 +1,6 @@
 {
-  "reference": "C:/Users/User/Desktop/Extra Curriculars/Dance/InShot_20210830_235024325.mp4",
-  "candidate": "C:/Users/User/Desktop/Extra Curriculars/Dance/InShot_20210830_235530845.mp4",
+  "reference": "InShot_20210830_235024325.mp4",
+  "candidate": "InShot_20210830_235530845.mp4",
   "mean_distance": 0.14061395026078655,
   "match_score_0_100": 90.6257366492809,
   "worst_frame_pairs": [

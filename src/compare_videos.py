@@ -49,8 +49,8 @@ def main() -> None:
 
     report_path = out_path.with_suffix(".json")
     report = {
-        "reference": args.reference,
-        "candidate": args.candidate,
+        "reference": Path(args.reference).name,
+        "candidate": Path(args.candidate).name,
         "mean_distance": summary.mean_distance,
         "match_score_0_100": summary.match_score_0_100,
         "worst_frame_pairs": [
